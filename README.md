@@ -1,1 +1,1 @@
-# react-native-first-app
+# react-native-swipe-app
